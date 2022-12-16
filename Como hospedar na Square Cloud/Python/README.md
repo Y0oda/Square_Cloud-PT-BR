@@ -50,9 +50,18 @@ pillow
 
 ### Compactar para .zip
 
-- <a href="https://www.youtube.com/watch?v=ByZtXLn7ydg" target="_blank">Clique aqui</a> para saber como transformar seus arquivos em .zip
+- <a href="https://www.youtube.com/watch?v=ByZtXLn7ydg" target="_blank">clique aqui</a> para saber como transformar seus arquivos em .zip
 
 ##
+
+### Enviando para a Square Cloud
+
+- Agora que seu arquivo .zip está pronto, é só enviar para a Square! Caso você ainda não esteja na Square, <a href="https://squarecloud.app" target="_blank">clique aqui</a> e, depois, clique no botão de "Entrar" para logar no servidor da Square Cloud.
+
+<img src="https://cdn.discordapp.com/attachments/977555716166533200/1053383801528660038/image.png">
+
+- Depois, vá no chat #commands na Square, digite /up, envie seu arquivo e seja feliz!
+
 
 ### Material de estudo
 
