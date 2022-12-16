@@ -44,13 +44,11 @@ pillow
 
 ### squarecloud.app
 
-- O squarecloud.app é a parte mais simples, você apenas vai no <a href="https://squarecloud.cf" target="_blank">site de geração do squarecloud.app</a>, gera ele e adiciona ele no seu arquivo .zip
+- O squarecloud.app é a parte mais simples, apenas vá no <a href="https://squarecloud.cf" target="_blank">site de geração do squarecloud.app</a>, gera ele e adiciona ele no seu arquivo .zip
 
 ##
 
 ### Compactar para .zip
-
-https://www.youtube.com/watch?v=ByZtXLn7ydg
 
 - <a href="https://www.youtube.com/watch?v=ByZtXLn7ydg" target="_blank">Clique aqui</a> para saber como transformar seus arquivos em .zip
 
