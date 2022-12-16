@@ -58,6 +58,7 @@ pillow
 
 - Agora que seu arquivo .zip está pronto, é só enviar para a Square! Caso você ainda não esteja na Square, <a href="https://squarecloud.app" target="_blank">clique aqui</a> e, depois, clique no botão de "Entrar" para logar no servidor da Square Cloud.
 
+<img align="right" height="760" width="1400" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/977555716166533200/1053383801528660038/image.png">
 - <img src="https://cdn.discordapp.com/attachments/977555716166533200/1053383801528660038/image.png">
 
 - Depois, vá no chat #commands na Square, digite /up, envie seu arquivo e seja feliz!
